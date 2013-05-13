@@ -1,0 +1,15 @@
+lv:
+  about_emporium: "Par Emporium"
+  price: "Cena"
+  publisher: "Izdevniecība"
+  page: "lapa"
+  listing_books: "Grāmatu saraksts"
+  book_was_successfully_created: "Grāmata ir veiksmīgi izveidota."
+  book_was_successfully_updated: "Grāmata ir veiksmīgi labota."
+
+
+  date:
+    order:
+      - :day
+      - :month
+      - :year

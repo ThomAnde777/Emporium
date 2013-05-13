@@ -1,0 +1,14 @@
+en:
+  about_emporium: "About Emporium"
+  price: "Price"
+  publisher: "Publisher"
+  page: "page"
+  listing_books: "Listing books"
+  book_was_successfully_created: "Book was successfully created."
+  book_was_successfully_updated: "Book was successfully updated."
+
+  date:
+    order:
+      - :day
+      - :month
+      - :year
